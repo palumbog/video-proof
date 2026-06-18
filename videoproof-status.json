@@ -1,4 +1,4 @@
 {
-  "enabled": false,
-  "message": "Sistema errore"
+  "enabled": true,
+  "message": "Sistema online"
 }
